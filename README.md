@@ -1,6 +1,6 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
-``` ![Demo App](/frontend/public/screenshot-for-readme.png)```
+<!-- ![Demo App](/frontend/public/screenshot-for-readme.png)```-->
 
 Highlights:
 
@@ -11,12 +11,12 @@ Highlights:
 - ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
 - 🧠 Global State Management with Zustand
 - 🚨 Error Handling (Frontend & Backend)
-```- 🚀 Free Deployment ```
+<!-- - 🚀 Free Deployment -->
 - 🎯 Built with Scalable Technologies like Stream
-```- ⏳ And much more! ```
+<!-- - ⏳ And much more! -->
 
 ---
-
+<!--
 ## 🧪 .env Setup
 
 ### Backend (`/backend`)
@@ -73,3 +73,4 @@ avatar link is  applied in  auth.controller.js  in backend (Backend=>src=>Contro
    ChatPages :  --
    inside page folder there is ChatPages.jsx (some changes in chatpages)
      {/* some lines is addded for back button inside chatpage (line no 103 to 109) remove if not use ,aslo remove import(line no 6,7) and line no 28  */}
+-->
